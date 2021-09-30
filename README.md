@@ -16,7 +16,7 @@
   
   <!-- <img align="right" alt="Kaio-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
-  <div>
+<div>
   <a href="https://github.com/KaioSantos32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioSantos32&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSantos32&langs_count=8e&theme=dark"
