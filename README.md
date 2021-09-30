@@ -5,13 +5,13 @@
 <!--- 😄 Pronouns: ele/dela-->
 
 
-  ### __Principal Skills__
+  ### __Skills Principais:__
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <p></p>
+  <br> 
   <br>
   
   <!-- <img align="right" alt="Kaio-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
@@ -35,7 +35,7 @@
 
 ### __LANGUAGES__
 </div>
-<div style="display: inline-block">I love to learn and discover, What a better way to discover thing than leaning a new language?.<br><br>
+<div style="display: inline-block">I love to learn and discover, What a better way to discover thing than leaning a new language?<br><br>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
 </div>
