@@ -1,7 +1,7 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
-- 🔭 Hoje trabalho com 
-- 🌱 Estudando  
+- 🔭 Hoje trabalho como estagiário na prefeitura de Taubaté
+- 🌱 Estudando  Programação e Cyber Security
 <!--- 😄 Pronouns: ele/dela-->
 
 <div>
