@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/kaiosantos-32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/KaioSantos32)
+![Snake animation](https://github.com/Kaiosantos32/KaioSantos32/blob/output/github-contribution-grid-snake.svg)
