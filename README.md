@@ -1,8 +1,7 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
-- 🔭 Hoje trabalho como estagiário na prefeitura de Taubaté
+- 🔭 Atualmente estou estagiando na Universal Laboratórios, uma empresa quimica, na área de TI
 - 🌱 Estudando  Programação e Cyber Security
-<!--- 😄 Pronouns: ele/dela-->
 
 
   ### __Skills Principais:__
