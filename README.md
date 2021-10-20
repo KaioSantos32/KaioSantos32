@@ -1,6 +1,6 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
-- 🔭 Atualmente estou estagiando na Universal Laboratórios, uma empresa química, na área de TI
+- 🔭 Atualmente estou estagiando na Universal Laboratórios na área de TI
 - 🌱 Estudando  Programação e Cyber Security
 
 
