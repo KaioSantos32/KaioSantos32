@@ -18,7 +18,7 @@
 <div>
   <a href="https://github.com/KaioSantos32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioSantos32&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSantos32&langs_count=8e&theme=dark"
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSantos32&langs_count=8e&theme=light"
 </div>
 
   ##
