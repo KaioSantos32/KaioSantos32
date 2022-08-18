@@ -1,7 +1,7 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
-- 🔭 Atualmente estou estagiando na Universal Laboratórios na área de TI
-- 🌱 Estudando  Programação e Cyber Security
+- 🔭 Atualmente formado em ADS e trabalhando como assistente de TI na Laboratorios Universal
+- 🌱 Estudando  Front-end e mobile
 
 
   ### __Skills Principais:__
