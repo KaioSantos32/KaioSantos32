@@ -34,7 +34,7 @@
 
 ### __LANGUAGES__
 </div>
-<div style="display: inline-block">I love to learn and discover, What a better way to discover thing than leaning a new language?<br><br>
+<div style="display: inline-block">I love how languagem can connect people at most simple way that exists. Never stop learning!<br><br>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
 </div>
