@@ -1,7 +1,7 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
-- 🔭 Atualmente formado em ADS e trabalhando como assistente de TI na Laboratorios Universal
-- 🌱 Estudando  mobile
+- 🔭 Graduado em ADS e trabalhando como assistente de TI;
+- 🌱 Estudando  mobile;
 
 
   ### __Skills Principais:__
