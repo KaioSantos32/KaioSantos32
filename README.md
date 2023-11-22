@@ -6,9 +6,9 @@
 
   ### __Skills Principais:__
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kaio-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  
   <img align="center" alt="Kaio-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Kaio-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"> 
+  <img align="center" alt="Kaio-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   
   <br> 
   <br>
