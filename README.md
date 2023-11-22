@@ -1,7 +1,7 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
 - 🔭 Graduado em ADS e trabalhando como assistente de TI;
-- 🌱 Estudando  mobile;
+- 🌱 Front End e Design;
 
 
   ### __Skills Principais:__
@@ -9,6 +9,10 @@
   
   <img align="center" alt="Kaio-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Kaio-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Kaio-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kaio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
+
   
   <br> 
   <br>
