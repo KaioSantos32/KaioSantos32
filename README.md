@@ -1,7 +1,8 @@
 ### Opá! Prazer, sou o Kaio Santos 👋
 
 - 🔭 Graduado em ADS e trabalhando como assistente de TI;
-- 🌱 Front End e Design;
+- 🌱 Software Development;
+- 🎯 Interesse em Redes e Cybersecurity
 
 
   ### __Skills Principais:__
