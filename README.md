@@ -5,7 +5,7 @@
 - 🎯 Interesse em Redes e Cybersecurity;
 
 
-  ### __Skills Principais:__
+  ### __Linguagens Principais:__
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Kaio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
@@ -24,7 +24,7 @@
 <div>
   <a href="https://github.com/KaioSantos32">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaioSantos32&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSantos32&langs_count=4e&theme=dark"
+<!--   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSantos32&langs_count=4e&theme=dark" -->
 </div>
 
   ##
