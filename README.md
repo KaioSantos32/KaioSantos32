@@ -2,7 +2,7 @@
 
 - 🔭 Graduado em ADS e trabalhando como assistente de TI;
 - 🔒 Estudante de Cibersecurança;
-- 🎯 Interesse em Cibersecurança e 🛡️ Blue Team;
+- 🎯 Interesse em Cibersecurança e Blue Team;
 
 
   ### __Linguagens Principais:__
