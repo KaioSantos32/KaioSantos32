@@ -1,7 +1,7 @@
 ### Opa, Prazer! sou o Kaio Santos 👋
 
 - 🔭 Graduado em ADS e trabalhando como assistente de TI;
-- ![image](https://github.com/user-attachments/assets/50281973-2d33-476c-80c2-212dea27704a) Estudante de Cibersecurança;
+- 🔒 Estudante de Cibersecurança;
 - 🎯 Interesse em Redes e Cybersecurity;
 
 
