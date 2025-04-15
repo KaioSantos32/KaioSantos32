@@ -1,4 +1,4 @@
-### Opa, Prazer! sou o Kaio Santos 👋
+## Opa, Prazer! sou o Kaio Santos 👋
 
 - 🔭 Graduado em ADS e trabalhando como assistente de TI;
 - 🔒 Estudante de Cibersecurança;
@@ -21,11 +21,8 @@
   
   <!-- <img align="right" alt="Kaio-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
-<div>
-  <h1>Projects</h1>
-</div>
 
-  ##
+## Projetos</div>
   
 <div>
   <a href = "mailto:kaiosantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
