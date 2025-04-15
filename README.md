@@ -22,7 +22,7 @@
   <!-- <img align="right" alt="Kaio-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
 
-## Projetos</div>
+## Projetos
 [Google cybersecurity portifolio](https://github.com/KaioSantos32/Cybersecurity-Portifolio/tree/main/Google%20Cybersecurity%20Professional/SQL%20and%20Linux)
 ___
 <div>
