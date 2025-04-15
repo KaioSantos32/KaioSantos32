@@ -23,7 +23,7 @@
 </div>
 
 ## Projetos</div>
-[Google cybersecurity portifolio]([url](https://github.com/KaioSantos32/Cybersecurity-Portifolio/tree/main/Google%20Cybersecurity%20Professional/SQL%20and%20Linux))
+[Google cybersecurity portifolio](https://github.com/KaioSantos32/Cybersecurity-Portifolio/tree/main/Google%20Cybersecurity%20Professional/SQL%20and%20Linux)
 ___
 <div>
   <a href = "mailto:kaiosantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
