@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/kaiosantos-32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### __LANGUAGES__
+### __IDIOMAS__
 </div>
 <div style="display: inline-block">I love how languagem can connect people in simple ways. Never stop learning!<br><br>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
